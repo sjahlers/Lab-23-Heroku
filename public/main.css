@@ -1,0 +1,55 @@
+body {
+	background-color: #2C151A;
+}
+
+h1 {
+	color: #8F2733;
+	font-family: 'Pacifico', cursive;
+	font-size: 3em;
+	margin: 20px;
+}
+
+p {
+	color: #F2001D;
+	font-family: 'Aref Ruqaa', serif;
+	font-size: 1.5em;
+	margin: 20px;
+	min-height: 100px;
+}
+
+.redshadow {
+	box-shadow: 1px 1px #F2001D,
+	2px 2px #F2001D,
+	3px 3px #F2001D,
+	4px 4px #BC0016,
+	5px 5px #BC0016,
+	6px 6px #BC0016,
+	7px 7px #8F2733,
+	8px 8px #8F2733,
+	9px 9px #8F2733;
+}
+
+#pagetext {
+	width: 60%;
+	float: right;
+	margin-right: 5%;
+	margin-top: 10px;
+	text-align: center;
+	background-color: white;
+}
+
+#newquote {
+	margin: 20px;
+	padding: 5px;
+	width: 50%;
+	font-family: 'Pacifico', cursive;
+	font-size: 1.25em;
+	color: #8F2733;
+	box-shadow: 2px 2px gray;
+}
+
+img {
+	width: 30%;
+	float: left;
+	margin: 10px;
+}
